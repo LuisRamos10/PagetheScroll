@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					A07AA5341E384D2E00026BCF = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = V98Y2F7BH3;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = V98Y2F7BH3;
 				INFOPLIST_FILE = PagetheScroll/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.BoriLabs.PagetheScroll;
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = V98Y2F7BH3;
 				INFOPLIST_FILE = PagetheScroll/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.BoriLabs.PagetheScroll;
